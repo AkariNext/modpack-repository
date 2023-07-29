@@ -1,12 +1,97 @@
 {
-    "e37b89bf89d5cb75d0605cf03863537b7e52a73e2ff6fb033161989c43d33876": {
-        "original_name": "Avaritia-1.12.2-3.3.0.37-universal.jar",
-        "hash": "e37b89bf89d5cb75d0605cf03863537b7e52a73e2ff6fb033161989c43d33876",
-        "to": "mods/Avaritia-1.12.2-3.3.0.37-universal.jar"
+    "e7f7fbf6caaf6206dbd958fb8f9185f874a405289e62ae3e97209b455a89fb1a": {
+        "original_name": "appliedenergistics2-rv6-stable-7.jar",
+        "hash": "e7f7fbf6caaf6206dbd958fb8f9185f874a405289e62ae3e97209b455a89fb1a",
+        "to": "mods/appliedenergistics2-rv6-stable-7.jar"
     },
     "9a46c66e95487bcfb7d715650817a9c30df5c759013bb6cb0d3290b261212595": {
         "original_name": "ProjectE-1.12.2-PE1.4.1.jar",
         "hash": "9a46c66e95487bcfb7d715650817a9c30df5c759013bb6cb0d3290b261212595",
         "to": "mods/ProjectE-1.12.2-PE1.4.1.jar"
+    },
+    "f994dc1c84a757c32a5b5b816dfaa19f82ccf1316c3852f42e8b2c7ad367eac9": {
+        "original_name": "AppliedEnergistics2.cfg",
+        "hash": "f994dc1c84a757c32a5b5b816dfaa19f82ccf1316c3852f42e8b2c7ad367eac9",
+        "to": "resources/config/AppliedEnergistics2/AppliedEnergistics2.cfg"
+    },
+    "c42516d00138c20953a8f35a732f28b67908a133a014a99024ab9ae32186ac4e": {
+        "original_name": "CustomRecipes.cfg",
+        "hash": "c42516d00138c20953a8f35a732f28b67908a133a014a99024ab9ae32186ac4e",
+        "to": "resources/config/AppliedEnergistics2/CustomRecipes.cfg"
+    },
+    "5deb7a662bba72bc1e9dde5ff93a088b6f7a4ba81145f8b2bb849ec85fc10287": {
+        "original_name": "extracells.cfg",
+        "hash": "5deb7a662bba72bc1e9dde5ff93a088b6f7a4ba81145f8b2bb849ec85fc10287",
+        "to": "resources/config/AppliedEnergistics2/extracells.cfg"
+    },
+    "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb": {
+        "original_name": "Facades.cfg",
+        "hash": "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb",
+        "to": "resources/config/AppliedEnergistics2/Facades.cfg"
+    },
+    "92671bf845d0d8246fc42009f755b4ab347c7579c01bdce9c825a98fe523b34a": {
+        "original_name": "items.csv",
+        "hash": "92671bf845d0d8246fc42009f755b4ab347c7579c01bdce9c825a98fe523b34a",
+        "to": "resources/config/AppliedEnergistics2/items.csv"
+    },
+    "b7b7966ce78e39336ae2bfb2ac1143e249bd01742e092ef025c33250bfe49d76": {
+        "original_name": "VersionChecker.cfg",
+        "hash": "b7b7966ce78e39336ae2bfb2ac1143e249bd01742e092ef025c33250bfe49d76",
+        "to": "resources/config/AppliedEnergistics2/VersionChecker.cfg"
+    },
+    "e112640d76a8763be538c885ed19d0f13a55cd395ff3cb69d0eb126c34f5f658": {
+        "original_name": "defaults.json",
+        "hash": "e112640d76a8763be538c885ed19d0f13a55cd395ff3cb69d0eb126c34f5f658",
+        "to": "resources/config/ProjectE/customConversions/defaults.json"
+    },
+    "85df95fec69ba7eaa2fa77c28b1e108c81389af8b0724a432c0e40890ce598fd": {
+        "original_name": "example.json",
+        "hash": "85df95fec69ba7eaa2fa77c28b1e108c81389af8b0724a432c0e40890ce598fd",
+        "to": "resources/config/ProjectE/customConversions/example.json"
+    },
+    "8bba197f0c43abf111cf306d661fee3ff221945fce29999ed0fe50812aa2771e": {
+        "original_name": "metals.json",
+        "hash": "8bba197f0c43abf111cf306d661fee3ff221945fce29999ed0fe50812aa2771e",
+        "to": "resources/config/ProjectE/customConversions/metals.json"
+    },
+    "7b7677f48d41699415a4790a72194b59d9bf84ac83aae5d429bfc1c4411711c3": {
+        "original_name": "ODdefaults.json",
+        "hash": "7b7677f48d41699415a4790a72194b59d9bf84ac83aae5d429bfc1c4411711c3",
+        "to": "resources/config/ProjectE/customConversions/ODdefaults.json"
+    },
+    "69104c32f9b059b58e9aff905020bb3f542f7da0ee2ad310b1d9559bc2a318da": {
+        "original_name": "custom_emc.json",
+        "hash": "69104c32f9b059b58e9aff905020bb3f542f7da0ee2ad310b1d9559bc2a318da",
+        "to": "resources/config/ProjectE/custom_emc.json"
+    },
+    "d7c64ae5e833086551a4958505a462ae252b72c9b2114f29cca005d70fc575af": {
+        "original_name": "mapping.cfg",
+        "hash": "d7c64ae5e833086551a4958505a462ae252b72c9b2114f29cca005d70fc575af",
+        "to": "resources/config/ProjectE/mapping.cfg"
+    },
+    "6f8737692b5b5bbfb328be8db8256aad415866a0bf7486a5580e7295383312e9": {
+        "original_name": "nbt_whitelist.json",
+        "hash": "6f8737692b5b5bbfb328be8db8256aad415866a0bf7486a5580e7295383312e9",
+        "to": "resources/config/ProjectE/nbt_whitelist.json"
+    },
+    "e552b83d01d603ead190b138da26b2b4a5b315d0ce53096e5a7e1c95ea58742f": {
+        "original_name": "ProjectE.cfg",
+        "hash": "e552b83d01d603ead190b138da26b2b4a5b315d0ce53096e5a7e1c95ea58742f",
+        "to": "resources/config/ProjectE/ProjectE.cfg"
+    },
+    "6b6bcbbf6ac4528657345e1696339528a44643ecb06e6137908eafb8432bd962": {
+        "original_name": "FTBBackups-1.1.0.1.jar",
+        "hash": "6b6bcbbf6ac4528657345e1696339528a44643ecb06e6137908eafb8432bd962",
+        "to": "mods/FTBBackups-1.1.0.1.jar"
+    },
+    "623fc574f0227fec6cc9e26c3879a605f9b4499c0078ff085291901a5495a6ac": {
+        "original_name": "FTBLib-5.4.7.2.jar",
+        "hash": "623fc574f0227fec6cc9e26c3879a605f9b4499c0078ff085291901a5495a6ac",
+        "to": "mods/FTBLib-5.4.7.2.jar"
+    },
+    "e458fe39aba9ba28122496e54f826e4f61df515ed1f8d0c70cc9e56f67a5404a": {
+        "original_name": "FTBUtilities-5.4.1.131.jar",
+        "hash": "e458fe39aba9ba28122496e54f826e4f61df515ed1f8d0c70cc9e56f67a5404a",
+        "to": "mods/FTBUtilities-5.4.1.131.jar"
     }
 }
