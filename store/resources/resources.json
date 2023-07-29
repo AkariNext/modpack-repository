@@ -1,0 +1,52 @@
+{
+    "005fa8f223045ecf09309ee5836b78192d75881b3891380f44a1e1ca88655bfd": {
+        "original_name": "avaritia.cfg",
+        "hash": "005fa8f223045ecf09309ee5836b78192d75881b3891380f44a1e1ca88655bfd",
+        "to": "config/avaritia.cfg"
+    },
+    "e112640d76a8763be538c885ed19d0f13a55cd395ff3cb69d0eb126c34f5f658": {
+        "original_name": "defaults.json",
+        "hash": "e112640d76a8763be538c885ed19d0f13a55cd395ff3cb69d0eb126c34f5f658",
+        "to": "config/ProjectE/customConversions/defaults.json"
+    },
+    "85df95fec69ba7eaa2fa77c28b1e108c81389af8b0724a432c0e40890ce598fd": {
+        "original_name": "example.json",
+        "hash": "85df95fec69ba7eaa2fa77c28b1e108c81389af8b0724a432c0e40890ce598fd",
+        "to": "config/ProjectE/customConversions/example.json"
+    },
+    "8bba197f0c43abf111cf306d661fee3ff221945fce29999ed0fe50812aa2771e": {
+        "original_name": "metals.json",
+        "hash": "8bba197f0c43abf111cf306d661fee3ff221945fce29999ed0fe50812aa2771e",
+        "to": "config/ProjectE/customConversions/metals.json"
+    },
+    "7b7677f48d41699415a4790a72194b59d9bf84ac83aae5d429bfc1c4411711c3": {
+        "original_name": "ODdefaults.json",
+        "hash": "7b7677f48d41699415a4790a72194b59d9bf84ac83aae5d429bfc1c4411711c3",
+        "to": "config/ProjectE/customConversions/ODdefaults.json"
+    },
+    "69104c32f9b059b58e9aff905020bb3f542f7da0ee2ad310b1d9559bc2a318da": {
+        "original_name": "custom_emc.json",
+        "hash": "69104c32f9b059b58e9aff905020bb3f542f7da0ee2ad310b1d9559bc2a318da",
+        "to": "config/ProjectE/custom_emc.json"
+    },
+    "d7c64ae5e833086551a4958505a462ae252b72c9b2114f29cca005d70fc575af": {
+        "original_name": "mapping.cfg",
+        "hash": "d7c64ae5e833086551a4958505a462ae252b72c9b2114f29cca005d70fc575af",
+        "to": "config/ProjectE/mapping.cfg"
+    },
+    "6f8737692b5b5bbfb328be8db8256aad415866a0bf7486a5580e7295383312e9": {
+        "original_name": "nbt_whitelist.json",
+        "hash": "6f8737692b5b5bbfb328be8db8256aad415866a0bf7486a5580e7295383312e9",
+        "to": "config/ProjectE/nbt_whitelist.json"
+    },
+    "e552b83d01d603ead190b138da26b2b4a5b315d0ce53096e5a7e1c95ea58742f": {
+        "original_name": "ProjectE.cfg",
+        "hash": "e552b83d01d603ead190b138da26b2b4a5b315d0ce53096e5a7e1c95ea58742f",
+        "to": "config/ProjectE/ProjectE.cfg"
+    },
+    "b4cc54aa16780c647ad9cb789c004d93319355b793cf873a834a2a2c2cf670de": {
+        "original_name": "2023-07-17_21.16.22_2.png",
+        "hash": "b4cc54aa16780c647ad9cb789c004d93319355b793cf873a834a2a2c2cf670de",
+        "to": "screenshots/2023-07-17_21.16.22_2.png"
+    }
+}
