@@ -1,0 +1,12 @@
+{
+    "e37b89bf89d5cb75d0605cf03863537b7e52a73e2ff6fb033161989c43d33876": {
+        "original_name": "Avaritia-1.12.2-3.3.0.37-universal.jar",
+        "hash": "e37b89bf89d5cb75d0605cf03863537b7e52a73e2ff6fb033161989c43d33876",
+        "to": "mods/Avaritia-1.12.2-3.3.0.37-universal.jar"
+    },
+    "9a46c66e95487bcfb7d715650817a9c30df5c759013bb6cb0d3290b261212595": {
+        "original_name": "ProjectE-1.12.2-PE1.4.1.jar",
+        "hash": "9a46c66e95487bcfb7d715650817a9c30df5c759013bb6cb0d3290b261212595",
+        "to": "mods/ProjectE-1.12.2-PE1.4.1.jar"
+    }
+}
