@@ -14,5 +14,45 @@
     {
         "type": "file",
         "key": "ProjectE-1.12.2-PE1.4.1.jar-1.7.10"
+    },
+    {
+        "type": "file",
+        "key": "avaritia.cfg"
+    },
+    {
+        "type": "file",
+        "key": "defaults.json"
+    },
+    {
+        "type": "file",
+        "key": "example.json"
+    },
+    {
+        "type": "file",
+        "key": "metals.json"
+    },
+    {
+        "type": "file",
+        "key": "ODdefaults.json"
+    },
+    {
+        "type": "file",
+        "key": "custom_emc.json"
+    },
+    {
+        "type": "file",
+        "key": "mapping.cfg"
+    },
+    {
+        "type": "file",
+        "key": "nbt_whitelist.json"
+    },
+    {
+        "type": "file",
+        "key": "ProjectE.cfg"
+    },
+    {
+        "type": "file",
+        "key": "2023-07-17_21.15.12.png"
     }
 ]
