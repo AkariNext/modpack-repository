@@ -4,5 +4,6 @@
         "summer2023"
     ],
     "repository_type": "github",
-    "format_version": "1.0.0"
+    "format_version": "1.0.0",
+    "base_url": "https://raw.githubusercontent.com/AkariNext/modpack-repository/main"
 }
