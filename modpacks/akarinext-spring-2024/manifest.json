@@ -1,0 +1,19 @@
+{
+    "name": "akarinext-spring-2024",
+    "server": [
+        {
+            "name": "localhost",
+            "address": "localhost",
+            "port": 25565
+        }
+    ],
+    "gameVersion": "1.7.10",
+    "modLoader": {
+        "modLoaderType": "forge",
+        "modLoaderVersion": "latest"
+    },
+    "iconUrl": null,
+    "versions": [
+        "1.0.0"
+    ]
+}

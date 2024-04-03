@@ -1,92 +1,72 @@
 {
-    "6b6bcbbf6ac4528657345e1696339528a44643ecb06e6137908eafb8432bd962": {
-        "original_name": "FTBBackups-1.1.0.1.jar",
-        "hash": "6b6bcbbf6ac4528657345e1696339528a44643ecb06e6137908eafb8432bd962",
-        "to": "mods/FTBBackups-1.1.0.1.jar"
+    "43e91fa2578d21a9ca47736282386f8b69183298eccfa25c052f479ee051de52": {
+        "original_name": "buildcraft-7.1.26.jar",
+        "hash": "43e91fa2578d21a9ca47736282386f8b69183298eccfa25c052f479ee051de52",
+        "to": "mods/buildcraft-7.1.26.jar"
     },
-    "623fc574f0227fec6cc9e26c3879a605f9b4499c0078ff085291901a5495a6ac": {
-        "original_name": "FTBLib-5.4.7.2.jar",
-        "hash": "623fc574f0227fec6cc9e26c3879a605f9b4499c0078ff085291901a5495a6ac",
-        "to": "mods/FTBLib-5.4.7.2.jar"
+    "9628f59a659e061f2256cd8e85d45c1f3a81be6d092a1d2c5dd361317add7596": {
+        "original_name": "CoFHLib-[1.7.10]1.2.1-185.jar",
+        "hash": "9628f59a659e061f2256cd8e85d45c1f3a81be6d092a1d2c5dd361317add7596",
+        "to": "mods/CoFHLib-[1.7.10]1.2.1-185.jar"
     },
-    "e458fe39aba9ba28122496e54f826e4f61df515ed1f8d0c70cc9e56f67a5404a": {
-        "original_name": "FTBUtilities-5.4.1.131.jar",
-        "hash": "e458fe39aba9ba28122496e54f826e4f61df515ed1f8d0c70cc9e56f67a5404a",
-        "to": "mods/FTBUtilities-5.4.1.131.jar"
+    "3b58fe29e4d087c069c9aa58fa6831f06137969117d928ed6548a0770f61f62a": {
+        "original_name": "journeymap-1.7.10-5.2.3-unlimited.jar",
+        "hash": "3b58fe29e4d087c069c9aa58fa6831f06137969117d928ed6548a0770f61f62a",
+        "to": "mods/journeymap-1.7.10-5.2.3-unlimited.jar"
     },
-    "9a46c66e95487bcfb7d715650817a9c30df5c759013bb6cb0d3290b261212595": {
-        "original_name": "ProjectE-1.12.2-PE1.4.1.jar",
-        "hash": "9a46c66e95487bcfb7d715650817a9c30df5c759013bb6cb0d3290b261212595",
-        "to": "mods/ProjectE-1.12.2-PE1.4.1.jar"
+    "a872dc7bb155d809329e15912b27aced47a5a56b999476269f54489472edec08": {
+        "original_name": "mcjtylib-1.8.1.jar",
+        "hash": "a872dc7bb155d809329e15912b27aced47a5a56b999476269f54489472edec08",
+        "to": "mods/mcjtylib-1.8.1.jar"
     },
-    "f994dc1c84a757c32a5b5b816dfaa19f82ccf1316c3852f42e8b2c7ad367eac9": {
-        "original_name": "AppliedEnergistics2.cfg",
-        "hash": "f994dc1c84a757c32a5b5b816dfaa19f82ccf1316c3852f42e8b2c7ad367eac9",
-        "to": "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
+    "40431f50a6dd02164a14e05f1422ead34e5a7f54a44f7feff475c4334a1be278": {
+        "original_name": "Neat+1.0-1.jar",
+        "hash": "40431f50a6dd02164a14e05f1422ead34e5a7f54a44f7feff475c4334a1be278",
+        "to": "mods/Neat+1.0-1.jar"
     },
-    "c42516d00138c20953a8f35a732f28b67908a133a014a99024ab9ae32186ac4e": {
-        "original_name": "CustomRecipes.cfg",
-        "hash": "c42516d00138c20953a8f35a732f28b67908a133a014a99024ab9ae32186ac4e",
-        "to": "config/AppliedEnergistics2/CustomRecipes.cfg"
+    "75caf28ecce6ef0bcf4f4880f2af44c27ac8b7f04921ce11ce8fc2e781905835": {
+        "original_name": "rftools-4.23.jar",
+        "hash": "75caf28ecce6ef0bcf4f4880f2af44c27ac8b7f04921ce11ce8fc2e781905835",
+        "to": "mods/rftools-4.23.jar"
     },
-    "5deb7a662bba72bc1e9dde5ff93a088b6f7a4ba81145f8b2bb849ec85fc10287": {
-        "original_name": "extracells.cfg",
-        "hash": "5deb7a662bba72bc1e9dde5ff93a088b6f7a4ba81145f8b2bb849ec85fc10287",
-        "to": "config/AppliedEnergistics2/extracells.cfg"
+    "ea590f8ea6350441277ff322a61a78b2a9f00efa04b5ca3806f61fc528bead2c": {
+        "original_name": "main.cfg",
+        "hash": "ea590f8ea6350441277ff322a61a78b2a9f00efa04b5ca3806f61fc528bead2c",
+        "to": "config/buildcraft/main.cfg"
     },
-    "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb": {
-        "original_name": "Facades.cfg",
-        "hash": "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb",
-        "to": "config/AppliedEnergistics2/Facades.cfg"
+    "a7397f53839fa83b1cdcd83aba903d5b846f2c55a2ded0f19e488da970068a60": {
+        "original_name": "objects.cfg",
+        "hash": "a7397f53839fa83b1cdcd83aba903d5b846f2c55a2ded0f19e488da970068a60",
+        "to": "config/buildcraft/objects.cfg"
     },
-    "92671bf845d0d8246fc42009f755b4ab347c7579c01bdce9c825a98fe523b34a": {
-        "original_name": "items.csv",
-        "hash": "92671bf845d0d8246fc42009f755b4ab347c7579c01bdce9c825a98fe523b34a",
-        "to": "config/AppliedEnergistics2/items.csv"
+    "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e": {
+        "original_name": "forge.cfg",
+        "hash": "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e",
+        "to": "config/forge.cfg"
     },
-    "b7b7966ce78e39336ae2bfb2ac1143e249bd01742e092ef025c33250bfe49d76": {
-        "original_name": "VersionChecker.cfg",
-        "hash": "b7b7966ce78e39336ae2bfb2ac1143e249bd01742e092ef025c33250bfe49d76",
-        "to": "config/AppliedEnergistics2/VersionChecker.cfg"
+    "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5": {
+        "original_name": "forgeChunkLoading.cfg",
+        "hash": "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5",
+        "to": "config/forgeChunkLoading.cfg"
     },
-    "e112640d76a8763be538c885ed19d0f13a55cd395ff3cb69d0eb126c34f5f658": {
-        "original_name": "defaults.json",
-        "hash": "e112640d76a8763be538c885ed19d0f13a55cd395ff3cb69d0eb126c34f5f658",
-        "to": "config/ProjectE/customConversions/defaults.json"
+    "b84a8e6463379555141b9c0b2823207c753f82d10d32143c9896aeb1b696358a": {
+        "original_name": "mcjtylib.cfg",
+        "hash": "b84a8e6463379555141b9c0b2823207c753f82d10d32143c9896aeb1b696358a",
+        "to": "config/mcjtylib.cfg"
     },
-    "85df95fec69ba7eaa2fa77c28b1e108c81389af8b0724a432c0e40890ce598fd": {
-        "original_name": "example.json",
-        "hash": "85df95fec69ba7eaa2fa77c28b1e108c81389af8b0724a432c0e40890ce598fd",
-        "to": "config/ProjectE/customConversions/example.json"
+    "a5e7cace2654cdd13b59de2c87faa45b34c1235f0902038dbaeeb499350007b9": {
+        "original_name": "Neat.cfg",
+        "hash": "a5e7cace2654cdd13b59de2c87faa45b34c1235f0902038dbaeeb499350007b9",
+        "to": "config/Neat.cfg"
     },
-    "8bba197f0c43abf111cf306d661fee3ff221945fce29999ed0fe50812aa2771e": {
-        "original_name": "metals.json",
-        "hash": "8bba197f0c43abf111cf306d661fee3ff221945fce29999ed0fe50812aa2771e",
-        "to": "config/ProjectE/customConversions/metals.json"
+    "eb84e247ca2f996579303cdf85447f9df41415352b41c972e9f97a149548339d": {
+        "original_name": "main.cfg",
+        "hash": "eb84e247ca2f996579303cdf85447f9df41415352b41c972e9f97a149548339d",
+        "to": "config/rftools/main.cfg"
     },
-    "7b7677f48d41699415a4790a72194b59d9bf84ac83aae5d429bfc1c4411711c3": {
-        "original_name": "ODdefaults.json",
-        "hash": "7b7677f48d41699415a4790a72194b59d9bf84ac83aae5d429bfc1c4411711c3",
-        "to": "config/ProjectE/customConversions/ODdefaults.json"
-    },
-    "69104c32f9b059b58e9aff905020bb3f542f7da0ee2ad310b1d9559bc2a318da": {
-        "original_name": "custom_emc.json",
-        "hash": "69104c32f9b059b58e9aff905020bb3f542f7da0ee2ad310b1d9559bc2a318da",
-        "to": "config/ProjectE/custom_emc.json"
-    },
-    "d7c64ae5e833086551a4958505a462ae252b72c9b2114f29cca005d70fc575af": {
-        "original_name": "mapping.cfg",
-        "hash": "d7c64ae5e833086551a4958505a462ae252b72c9b2114f29cca005d70fc575af",
-        "to": "config/ProjectE/mapping.cfg"
-    },
-    "6f8737692b5b5bbfb328be8db8256aad415866a0bf7486a5580e7295383312e9": {
-        "original_name": "nbt_whitelist.json",
-        "hash": "6f8737692b5b5bbfb328be8db8256aad415866a0bf7486a5580e7295383312e9",
-        "to": "config/ProjectE/nbt_whitelist.json"
-    },
-    "e552b83d01d603ead190b138da26b2b4a5b315d0ce53096e5a7e1c95ea58742f": {
-        "original_name": "ProjectE.cfg",
-        "hash": "e552b83d01d603ead190b138da26b2b4a5b315d0ce53096e5a7e1c95ea58742f",
-        "to": "config/ProjectE/ProjectE.cfg"
+    "e9348c2ba3d7e6c52f9c171bba8c8978411198194051aee172863c09d481a7db": {
+        "original_name": "splash.properties",
+        "hash": "e9348c2ba3d7e6c52f9c171bba8c8978411198194051aee172863c09d481a7db",
+        "to": "config/splash.properties"
     }
 }
