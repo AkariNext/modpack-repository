@@ -1,6 +1,6 @@
 {
     "name": "akarinext-spring-2024",
-    "server": [
+    "servers": [
         {
             "name": "localhost",
             "address": "localhost",
